@@ -1,0 +1,77 @@
+
+
+
+
+
+body {
+    background-color: #E23D3D;
+    font-family: 'Ubuntu', sans-serif;
+    
+    }
+
+h1 {
+font-family: 'Faster One', cursive;
+font-size: 73px;
+color:#E23D3D;
+}
+
+.title {
+    font-family: 'Faster One', cursive;
+font-size: 60px;
+color:#E23D3D;
+}
+
+.title_deux {
+    font-family: 'Ubuntu', sans-serif;
+    font-size> 30px;
+}
+
+h2 {
+font-family: 'Faster One', cursive;
+font-size: 60px;
+}
+
+.title_red{
+   font-family: 'Faster One', cursive;
+   font-size: 60px;
+   color:#E23D3D;
+}
+
+.title_white{
+       font-family: 'Faster One', cursive;
+       font-size: 60px;
+    color: white;
+}
+
+.title_white_low{
+       font-family: 'Ubuntu', sans-serif;
+       font-size: 60px;
+    color: white;
+}
+
+.section_un {
+    background-image: url('img/digitalsolutions.jpg');
+    height: 768px;
+}
+
+.section_deux {
+    height: 768px;
+}
+
+.section_trois {
+    background-image: url('img/pourquidigital.jpg');
+    height: 768px;
+}
+
+.section_quatre {
+    height: 768px;
+}
+
+.section_cinq {
+    background-image: url('img/experiencedigital.jpg');
+    height: 1536px;
+}
+
+.section_sept {
+    height: 768px;
+}
